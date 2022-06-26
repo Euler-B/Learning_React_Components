@@ -11,8 +11,6 @@ class Greetings extends Component {
         }
     }
 
-
-
     render() {
         return (
             <div>
